@@ -1,0 +1,10 @@
+# Anthony Mele 2/19/2022
+
+# I am writing this project as a training experience for my analyst
+# I will continue to include the sources of inspiration / methods in this file
+
+## A use case for SQLlite
+#  Old code I wrote in the scratch folder
+
+## A usecase for AirFlow, was going to use Luigi but AirFlow seems better
+#  https://towardsdatascience.com/end-to-end-machine-learning-pipeline-with-docker-and-apache-airflow-from-scratch-35f6a75f57ad
